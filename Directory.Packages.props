@@ -3,6 +3,7 @@
     <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
   </PropertyGroup>
   <ItemGroup>
+    <PackageVersion Include="Cocona" Version="2.2.0" />
     <PackageVersion Include="SonarAnalyzer.CSharp" Version="10.10.0.116381" />
   </ItemGroup>
 </Project>
