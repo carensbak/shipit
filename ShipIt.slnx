@@ -5,5 +5,6 @@
     <File Path="Directory.Build.props" />
     <File Path="Directory.Packages.props" />
   </Folder>
+  <Project Path="src/ShipIt.Cli/ShipIt.Cli.csproj" />
   <Project Path="src/ShipIt.Core/ShipIt.Core.csproj" />
 </Solution>
